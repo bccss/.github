@@ -19,15 +19,15 @@ We host guest lectures, hands-on workshops, hackathons, collaborative projects, 
 
 ## 🚀 Get Involved
 
-- **Join our Slack Workspace:** [Join Slack](YOUR_SLACK_LINK_HERE)
-- **Subscribe to our Mailing List:** [Join Mailing List](YOUR_MAILING_LIST_LINK_HERE)
+- **Join our Slack Workspace:** [Join Slack](https://bccss.slack.com/)
+- **Subscribe to our Mailing List:** [Join Mailing List]((https://mailchi.mp/8125d9b64c7b/sign-up-for-our-newsletter-bccss))
 
 ---
 
 ## 🔗 Quick Links
 
 - **Last Year's Hack the Heights:** [hacktheheights.org](https://hacktheheights.org)
-- **BC Computer Science Department:** [Visit Department](YOUR_BC_CS_DEPARTMENT_LINK_HERE)
+- **BC Computer Science Department:** [Visit Department](https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science.html)
 
 ---
 
