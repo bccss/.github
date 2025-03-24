@@ -6,7 +6,7 @@
 
 ---
 
-> **🚧 Work in Progress:** Our new website and the Hack the Heights 2025 site are under construction. Stay tuned for awesome updates!
+- **Check out our NEW website!:** [BCCSS](https://bccss.co/)
 
 ---
 
