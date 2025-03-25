@@ -20,7 +20,7 @@ We host guest lectures, hands-on workshops, hackathons, collaborative projects, 
 ## 🚀 Get Involved
 
 - **Join our Slack Workspace:** [Join Slack](https://bccss.slack.com/)
-- **Subscribe to our Mailing List:** [Join Mailing List]((https://mailchi.mp/8125d9b64c7b/sign-up-for-our-newsletter-bccss))
+- **Subscribe to our Mailing List:** [Join Mailing List](https://mailchi.mp/8125d9b64c7b/sign-up-for-our-newsletter-bccss)
 
 ---
 
