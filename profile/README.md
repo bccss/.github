@@ -37,6 +37,7 @@ Our close collaboration with the BC Computer Science Department and the Carroll 
 ## 🤝 Connect & Collaborate
 
 Whether you're here to contribute to our projects, attend events, or simply learn more about the vibrant tech community at Boston College, we're excited to have you on board!  
+
 Explore our repositories, join discussions, and let's code the future together! 💻✨
 
 ---
