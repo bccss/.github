@@ -13,7 +13,10 @@
 ## 📚 About Us
 
 The **Boston College Computer Science Society (CSS)** is dedicated to empowering students with the skills and opportunities in technology and entrepreneurship.  
-We host guest lectures, hands-on workshops, hackathons, collaborative projects, and more! Our close collaboration with the BC Computer Science Department and the Carroll School of Management creates a thriving environment for innovation and learning.
+
+We host guest lectures, hands-on workshops, hackathons, collaborative projects, and more! 
+
+Our close collaboration with the BC Computer Science Department and the Carroll School of Management creates a thriving environment for innovation and learning.
 
 ---
 
