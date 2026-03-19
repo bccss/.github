@@ -10,7 +10,7 @@
 
 ---
 
-## 📚 About Us
+## About Us
 
 The **Boston College Computer Science Society (CSS)** is dedicated to empowering students with the skills and opportunities in technology and entrepreneurship.  
 
@@ -20,21 +20,21 @@ Our close collaboration with the BC Computer Science Department and the Carroll 
 
 ---
 
-##  Get Involved
+## Get Involved
 
 - **Join our Slack Workspace:** [Join Slack](https://bccss.slack.com/)
 - **Subscribe to our Mailing List:** [Join Mailing List](https://mailchi.mp/8125d9b64c7b/sign-up-for-our-newsletter-bccss)
 
 ---
 
-##  Quick Links
+## Quick Links
 
 - **Last Year's Hack the Heights:** [hacktheheights.org](https://hacktheheights.org)
 - **BC Computer Science Department:** [Visit Department](https://www.bc.edu/bc-web/schools/morrissey/departments/computer-science.html)
 
 ---
 
-##  Connect & Collaborate
+## Connect & Collaborate
 
 Whether you're here to contribute to our projects, attend events, or simply learn more about the vibrant tech community at Boston College, we're excited to have you on board!  
 
